@@ -38,19 +38,12 @@ In this capstone project, we analyze a simulated dataset of **3,400 fashion reta
 - Line plots and time series graphs
 - Correlation matrices and heatmaps
 
-### 4. (Optional) Advanced Features
-- Customer segmentation via clustering (KMeans or hierarchical)
-- Interactive dashboard using **Streamlit** or **Tableau**
-
 ---
 
 ## 📂 Deliverables
 
 - ✅ Jupyter/Colab Notebook with full analysis and visuals  
 - ✅ Cleaned dataset (optional)  
-- ✅ Final report (PDF or PPT format)  
-- ✅ Optional: Interactive dashboard  
-
 ---
 
 ## 🌟 Learning Outcomes
@@ -74,7 +67,7 @@ In this capstone project, we analyze a simulated dataset of **3,400 fashion reta
 ## 📫 Contact
 
 For queries or collaboration, feel free to reach out at:  
-📧 your.email@example.com  
+📧 murugansandhya248@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) *(Optional)*
 
 ---
